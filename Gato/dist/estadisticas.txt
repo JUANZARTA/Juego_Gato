@@ -1,0 +1,3 @@
+Computadora 6 0 5
+Computadora 7 0 5
+Miguel 5 3 3
